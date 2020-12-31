@@ -2,4 +2,4 @@
 
 ## cant display pic
 
-[GitHub](http://github.com)
+[GitHub website](http://github.com)
