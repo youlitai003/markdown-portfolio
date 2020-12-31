@@ -1,2 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)[my profile](https://github.com/youlitai003)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+(https://github.com/youlitai003)
 
